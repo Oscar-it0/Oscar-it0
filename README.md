@@ -11,15 +11,15 @@ Bienvenido a mi repositorio profesional. Soy Contador Público egresado del IPN 
 - **Análisis de datos**: Pandas, NumPy, Matplotlib, Seaborn
 - **Modelos predictivos**: Scikit-learn, regresión, clasificación
 - **Procesos contables**: R2R (Record to Report), P2P (Procure to Pay), O2C (Order to Cash)
-- **Herramientas**: Jupyter Notebook, Git, GitHub
+- **Herramientas**: Jupyter Notebook, Git, GitHub, Visual Studio Code
 
 ## 📂 Estructura del Repositorio
 
 Este repositorio contiene proyectos que integran mi experiencia contable con mis habilidades en ciencia de datos:
 
-- `01-modelos_predictivos/`: Proyectos de predicción de flujo de caja, clasificación de riesgo crediticio, etc.
-- `02-automatización_procesos/`: Scripts para automatizar tareas contables y financieras.
-- `03-visualizaciones/`: Dashboards interactivos y reportes visuales.
+- `01-modelos_predictivos/`: Proyectos de predicción.
+- `02-automatización_procesos/`: Scripts para automatizar tareas.
+- `03-visualizaciones/`: Dashboards y reportes visuales.
 - `04-prácticas_tripleten/`: Proyectos realizados durante mi formación en TripleTen.
 
 ## 📈 Objetivo
@@ -28,7 +28,9 @@ Aplicar la analítica de datos para transformar procesos contables y financieros
 
 ## 📬 Contacto
 
-- 📧 Email: [oscarg.olvera@outlook.com](mailtokedIn: [linkedin.com/in/oscargonzález- 🧠 GitHub: [github.com/Oscar-it0](https://github.comidad es el lenguaje de los negocios. La ciencia de datos es el lenguaje del futuro. Yo hablo ambos.”
+- 📧 Email oscarg.olvera@outlook.com
+- 🧠 [GitHub](https://github.com/Oscar-it0)
+- 👥 [LinkedIn](www.linkedin.com/in/oscargonzález)
 
 
 
