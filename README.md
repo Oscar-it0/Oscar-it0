@@ -1,7 +1,7 @@
 ## Hola 👋
 
 
-# 💼 Oscar González — Data Analyst | Contador Público
+# 💼 Oscar González — Data Scientist | Contador Público
 
 Bienvenido a mi repositorio profesional. Soy Contador Público egresado del IPN con más de 15 años de experiencia en procesos contables (R2R, P2P, O2C) y finanzas corporativas. Recientemente me he capacitado en programación y ciencia de datos por TripleTen, y estoy enfocado en aplicar soluciones analíticas que optimicen procesos y generen valor mediante el uso estratégico de la información.
 
