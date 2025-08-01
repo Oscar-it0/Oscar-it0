@@ -29,9 +29,7 @@ Aplicar la analítica de datos para transformar procesos contables y financieros
 ## 📬 Contacto
 
 - 📧 Email oscarg.olvera@outlook.com
-- 🧠 [GitHub](https://github.com/Oscar-it0)
-- 👥 [LinkedIn](www.linkedin.com/in/oscargonzález)
-
+- 👥 [LinkedIn](https://www.linkedin.com/in/oscargonz%C3%A1lez/)
 
 
 
